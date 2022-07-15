@@ -28,4 +28,4 @@ hello, lihu! hello, git!
 hello, lihu! hello, git!
 hello, lihu! hello, git!
 hello, lihu! hello, git!
-hello, lihu! hello, git!
+hello, lihu! hello, git!hot-fix
